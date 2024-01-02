@@ -7,5 +7,8 @@
 <p> Studying at <strong>Escola Profissional de Braga</strong> <br/> I'm a <strong>back-end</strong> developer. </p>
 <br><hr><br>
 
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael-Moreira-Kt&layout=compact)](https://github.com/Ismael-Moreira-Kt/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsmaelKt)](https://github.com/Ismael-Moreira-Kt/github-readme-stats)
+</div>
