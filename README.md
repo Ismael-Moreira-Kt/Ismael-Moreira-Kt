@@ -48,11 +48,11 @@ I am Ismael Moreira, a dedicated backend developer with expertise in Java Stack 
 
 <br><br><br>
 
-## 
+##
 
 <p align="center">
   <a href="https://github.com/Ismael-Moreira-Kt">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ismael-Moreira-Kt&show_icons=true&theme=algolia&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ismael-Moreira-Kt&show_icons=true&theme=radical"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ismael-Moreira-Kt&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
