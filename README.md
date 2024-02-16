@@ -1,4 +1,3 @@
-
 # Ismael Moreira <-> Desenvolvedor Full Stack
 Bem vindo ao meu perfil! Aqui verá muito código Java, algum código Javascript e alguns outros scripts nas linguagens de programação que vou estudando.
 
@@ -119,9 +118,19 @@ A estrada da aprendizagem é interminável, e estou imerso nela com entusiasmo. 
 
 <br><br>
 
-## 🔗 Links
+## Links
 [![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-moreira-932243280/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ismael_moreira_003/)
 
 <br><br>
+
+## Estatísticas
+
+<div align="center">
+ <a href="https://wakatime.com"><img width="750px" src="https://wakatime.com/share/@IsmaelKt/e7ea6842-6bed-475f-abc5-6060085aeb3d.png" /></a>
+ <br>
+ 
+ ![Ismael GitHub stats](https://github-readme-stats.vercel.app/api?username=ismael-moreira-kt&show_icons=true&theme=radical)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-moreira-kt&langs_count=8&layout=compact)
+</div>
