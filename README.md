@@ -1,4 +1,4 @@
-# Ismael Moreira <-> Desenvolvedor Full Stack
+# Ismael Moreira <-> Full Stack Developer
 Welcome to my profile! Here you will find a lot of Java code, some Javascript code, and various other scripts in the programming languages that I am studying.
 
 <br><br>
