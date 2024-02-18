@@ -128,9 +128,6 @@ The learning journey is endless, and I am immersed in it with enthusiasm. With e
 ## Estatísticas
 
 <div align="center">
- <a href="https://wakatime.com"><img width="750px" src="https://wakatime.com/share/@IsmaelKt/e7ea6842-6bed-475f-abc5-6060085aeb3d.png" /></a>
- <br>
- 
  ![Ismael GitHub stats](https://github-readme-stats.vercel.app/api?username=ismael-moreira-kt&show_icons=true&theme=radical)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-moreira-kt&langs_count=8&layout=compact)
 </div>
