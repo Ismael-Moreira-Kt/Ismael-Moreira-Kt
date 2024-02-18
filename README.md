@@ -128,6 +128,8 @@ The learning journey is endless, and I am immersed in it with enthusiasm. With e
 ## Estatísticas
 
 <div align="center">
+ 
  ![Ismael GitHub stats](https://github-readme-stats.vercel.app/api?username=ismael-moreira-kt&show_icons=true&theme=radical)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismael-moreira-kt&langs_count=8&layout=compact)
+
 </div>
