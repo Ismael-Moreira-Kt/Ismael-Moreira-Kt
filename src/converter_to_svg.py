@@ -12,7 +12,7 @@
 import svgwrite
 
 
-def ascii_to_svg(input_file: str, output_file: str) -> none:
+def ascii_to_svg(input_file: str, output_file: str) -> None:
     with open(input_file, 'r') as file:
         ascii_art: str = file.read()
         lines: list[str] = ascii_art.splitlines()
@@ -23,17 +23,18 @@ def ascii_to_svg(input_file: str, output_file: str) -> none:
         dwg: svgwrite.Drawing = svgwrite.Drawing(
             output_file, 
             profile='tiny', 
-            size=('100%', '100%', fill='black')
+            size=('100%', '100%'), 
+            fill='black'
         )
 
         for counter, line in enumerate(lines):
             for second_counter, char in enumerate(line):
                 dwg.add(
-                    dwg-text(
+                    dwg.text(
                         char, 
                         insert=(second_counter * 10, counter * 15 + 12),
                         fill='red',
-                        font_size='15px'
+                        font_size='15px',
                         font_family='monospace'
                     )
                 )
