@@ -17,8 +17,8 @@ def ascii_to_svg(input_file: str, output_file: str) -> None:
         ascii_art: str = file.read()
         lines: list[str] = ascii_art.splitlines()
         
-        max_width: int = max(len(line) for line in lines) * 10
-        height: int = len(lines) * 15
+        max_width: int = 53 * 10
+        height: int = 6 * 12
 
         dwg: svgwrite.Drawing = svgwrite.Drawing(
             output_file, 
