@@ -1,12 +1,14 @@
-<div align="center" id="presentation">
+<div align="left" id="logo">
     <img
         src="./assets/imkt_profile_image.svg"
         alt="Profile Image"
-        width="600px"
+        width="300px"
     />
+</div>
+
+<div align="right" id="presentation">
     <h1>Hey!</h1>
-    <p>My name is Ismael, but most people know me as IsMoreiraKt.</p>
-    <p>I'm a C developer. Personally, I really enjoy writing CLI tools.</p>
+    <p>I'm <b>Ismael</b>, a C developer with a passion for creating a command-line tools.</p>
 </div>
 
 
