@@ -1,1 +1,1 @@
-svgwrite=1.4.3
+svgwrite==1.4.3
